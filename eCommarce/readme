@@ -1,1 +1,36 @@
+This is a frontend-only e-commerce website project that allows users to browse and order dresses and t-shirts. The project is built using modern web technologies and demonstrates a responsive UI and basic shopping functionality.
 
+Features
+
+Browse dress and t-shirt products
+
+Product listing with images, names, and prices
+
+Product detail view
+
+Add to cart functionality
+
+Responsive design for mobile and desktop
+
+Basic navigation (Home, Products, Cart)
+
+
+Tech Stack
+
+HTML5
+
+CSS3
+
+JavaScript (Vanilla or Framework like React, if used)
+
+[Optional: Bootstrap/Tailwind/Figma for UI styling]
+
+
+Folder Structure
+
+/project-root
+  /assets
+  /images
+  /css
+  /js
+  index.html
